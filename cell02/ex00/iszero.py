@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 user_inp = input()
 user_int = int(user_inp)
 
